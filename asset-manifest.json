@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/para-generator/static/css/main.66fdd950.css",
+    "main.js": "/para-generator/static/js/main.a9b05ddd.js",
+    "static/js/787.c08c53f1.chunk.js": "/para-generator/static/js/787.c08c53f1.chunk.js",
+    "static/media/Spinner-1s-117px.gif": "/para-generator/static/media/Spinner-1s-117px.8db2bbd11077c4635d79.gif",
+    "index.html": "/para-generator/index.html",
+    "main.66fdd950.css.map": "/para-generator/static/css/main.66fdd950.css.map",
+    "main.a9b05ddd.js.map": "/para-generator/static/js/main.a9b05ddd.js.map",
+    "787.c08c53f1.chunk.js.map": "/para-generator/static/js/787.c08c53f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fdd950.css",
+    "static/js/main.a9b05ddd.js"
+  ]
+}
